@@ -1,18 +1,41 @@
-## Getting Started
+# Desafio de Java da DIO 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcusViniciusGodoy/dio-poo-iphone/blob/main/LICENSE)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🔨 Funcionalidades do projeto
 
-## Folder Structure
+A aplicação consiste em aplicar os conhecimentos em POO (Programação Orientada a Objetos), onde temos uma classe Celular que implementa as interfaces com funcionalidades de telefone, internet e musical.
 
-The workspace contains two folders by default, where:
+## UML
+![Uml](https://github.com/MarcusViniciusGodoy/assets/blob/main/dio3.PNG)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ✔️ Técnicas e tecnologias utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+As técnicas e tecnologias utilizadas pra isso são:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- `Java`
 
-## Dependency Management
+### Pré-requisitos
+ Para executar este projeto, é necessário ter:
+ - [Visual Studio Code](https://code.visualstudio.com/)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Instalação
+ 
+ 1. Clone o repositório:
+    ```bash
+    git clone https://github.com/MarcusViniciusGodoy/dio-poo-iphone
+    ```
+ 
+ 2. Acesse o diretório do projeto:
+    ```bash
+    cd dio-poo-iphone
+    ```
+ 
+ 3. Abra o projeto no Visual Studio Code:
+    ```bash
+    code .
+    ```
+
+# Autor
+Marcus Vinícius de Godoy 
+
+https://www.linkedin.com/in/marcus-vin%C3%ADcius-godoy-15b5461a0/
